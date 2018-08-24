@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using NewRelic.Api.Agent;
 
+//Simple Web App example
 namespace HelloWeb
 {
     public class Startup
